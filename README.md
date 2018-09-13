@@ -7,7 +7,7 @@
 * **Instructor Office Hours:** Thursdays, 3:00pm - 5:00pm in GDH 454 - **[Please make an appointment to attend office hours here](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ)** 
 **(If no appointments are available or you cannot attend those that are please send an email to charles.lang@tc.columbia.edu and CC amy@x.ai)**   
 
-*  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course.
+*  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course.as you said
 *  **Credits:** 3
 *  **Required Technology:** Laptop with RStudio installed, Phone with the Sensor Kinetics Pro app installed
 
